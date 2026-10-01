@@ -1,1 +1,0 @@
-https://github.com/Khonsu144/zakrivayuschiy-teg-f.git
