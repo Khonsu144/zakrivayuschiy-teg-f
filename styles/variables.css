@@ -4,10 +4,12 @@
     --accent-font: "PressStart2P", fantasy;
     --text-weight: 400;
     --title-weight: 785;
-    --white-color: #fff;
     --font-size: 18px;
     --font-size-card-label: 14px;
-    --color: #000;
+    --card-bg-color: #fff;
+    --button-bg-color: #fff;
+    --text-stroke-color: #fff;
+    --main-color: #000;
     --button-font-size: 14px;
     --main-border: 2px solid black;
     --heart-contour-color: black;
